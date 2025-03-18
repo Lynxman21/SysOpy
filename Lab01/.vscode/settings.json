@@ -1,0 +1,15 @@
+{
+    "makefile.makefilePath": "Makefile",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/lynxman/SysOpy/Lab1",
+            "binaryPath": "/home/lynxman/SysOpy/Lab1/countdown",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/lynxman/SysOpy/Lab01",
+            "binaryPath": "/home/lynxman/SysOpy/Lab01/countdown",
+            "binaryArgs": []
+        }
+    ]
+}

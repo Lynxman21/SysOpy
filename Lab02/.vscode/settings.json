@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/lynxman/SysOpy/Lab02",
+            "binaryPath": "/home/lynxman/SysOpy/Lab02/client_dynamic",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
